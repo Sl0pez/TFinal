@@ -1,0 +1,200 @@
+.mt-auto {
+    margin-top: auto;
+}
+
+.mb-auto {
+    margin-bottom: auto;
+}
+
+div main {
+    display: block;
+}
+
+.masthead-brand {
+    float: left;
+}
+
+.nav-masthead {
+    float: right;
+}
+
+.nav-link footer {
+    display: block;
+
+}
+
+.nav body .d-flex {
+    display: flex;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Alatsi', sans-serif;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.two {
+    color: black;
+}
+
+.masthead {
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cover-container {
+    max-width: 90rem;
+}
+
+.py-3 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.padd {
+    padding-left: 1rem;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.h-100 {
+    min-height: 100%;
+}
+
+.container {
+    width: auto;
+}
+
+h3 h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
+
+.backg1 {
+    background-image: url(../background.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    color: white;
+}
+
+.backg2 {
+    background-image: url(../background1.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    color: black;
+}
+
+.opaql {
+    background-color: #0D2957;
+}
+
+.opaqr {
+    background-color: #677529;
+}
+
+.opaqm {
+    background-color: #BA8C5F;
+}
+
+.coverp {
+    background-color: #BA8C5F;
+    height: 25rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.covera {
+    background-image: url(../back.jpg);
+}
+
+.coverc {
+    background-image: url(../about.jpg);
+}
+
+.coverg {
+    background-image: url(../coverg.jpg);
+}
+
+.coverx {
+    background-image: url(../coverx.jpg)
+}
+
+.art-title {
+    text-align: center;
+    color: white;
+}
+
+.article {
+    background-color: white;
+}
+
+byline {
+    font-size: .5rem;
+}
+
+.spacer {
+    padding-top: 3rem;
+    width: 500px;
+    margin: 0 auto;
+    padding-bottom: 3rem;
+}
+
+.text {
+    font-size: 17px;
+    line-height: 145%;
+    font-kerning: normal;
+    text-align: left;
+    padding-top: 5px;
+    text-indent: 30px;
+}
+
+.texta {
+    text-indent: none;
+    text-align: left;
+    font-size: 17px;
+    line-height: 145%;
+}
+
+iframe {
+    border: none;
+    width: 600px;
+    height: 400px;
+    margin: 3rem;
+}
+
+
+figure {
+    margin: 3rem;
+}
+
+ul li {
+    text-align: left;
+}
